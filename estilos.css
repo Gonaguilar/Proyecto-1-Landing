@@ -179,8 +179,8 @@ hr{
     border: 0;
     font-weight:bold;
     padding: 10px 20px;
-    background:black ;
-    color: rgb(243, 20, 169);
+    background: rgba(0, 255, 200, 0.521);
+    color: blue;
     font-size: 15px;
     border: 1px solid rgb(49, 1, 31);
     margin: 40px 0;
@@ -191,9 +191,9 @@ hr{
 .cards-banner-two .email .botons{
     width: 25%;
     
-    background: rgb(11, 10, 10);
+    background: rgb(0, 255, 200, 0.521);
     padding: 10px 20px;
-    color:rgb(194, 80, 188);
+    color:black;
     margin: 40px 0;
     font-size: 16px;
     border-radius: 15px;
